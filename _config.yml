@@ -1,8 +1,7 @@
 menu:
     Blog: /
     Archive: /archives/
-    Weibo: http://weibo.com/sunchongsheng
-    GitHub: https://github.com/pinggod
+    About: /about/
     Rss: /atom.xml
 
 favicon: /favicon.png
@@ -15,12 +14,12 @@ duoshuo:
 
 # Analytics
 # google-analytics:
-ga: UA-65933410-1
+ga: UA-67513883-1
 # baidu-analytics:
-ba: //hm.baidu.com/hm.js?a36e15d9e2adec9a21fcdd9f686b1ed2
+# ba: //hm.baidu.com/hm.js?a36e15d9e2adec9a21fcdd9f686b1ed2
 
 # Copyright Infomation
-startyear: 2015
+startyear: 2016
 
 # Font CDN
 #true : use google fonts api, not stable for chinese visitor sometimes, caused by force majeure factor

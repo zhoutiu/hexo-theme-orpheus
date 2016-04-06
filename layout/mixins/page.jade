@@ -1,0 +1,13 @@
+mixin pageInfo(item)
+    .post-time
+        != full_date(item.date, 'll')
+
+//- Page
+mixin page(item)
+    .post
+        article.post-block
+            h1.post-title
+                != item.title
+            // +pageInfo(item)
+            .post-content
+                != item.content
